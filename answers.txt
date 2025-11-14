@@ -1,0 +1,59 @@
+Question 1: Mumbai (LOCATION)
+
+Question 2: Wilbur Wright (PERSON)
+
+Question 3: seven (NUMBER)
+
+Question 4: Tokyo (PLACE)
+
+Question 5: 1975 (DATE)
+
+Question 6: Alexander Fleming (PERSON)
+
+Question 7: Tibet (LOCATION)
+
+Question 8: Paris (PLACE)
+
+Question 9: two (NUMBER)
+
+Question 10: Alexander Graham Bell (PERSON)
+
+Question 11: 1976 (DATE)
+
+Question 12: Minneapolis (PLACE)
+
+Question 13: Taylor Swift (PERSON)
+
+Question 14: Paris (LOCATION)
+
+Question 15: eight (NUMBER)
+
+Question 16: Sydney (PLACE)
+
+Question 17: 2004 (DATE)
+
+Question 18: Thomas Edison (PERSON)
+
+Question 19: Inner Mongolia (LOCATION)
+
+Question 20: New Delhi (PLACE)
+
+Question 21: Taylor Swift (PERSON)
+
+Question 22: 1998 (DATE)
+
+Question 23: 44 (NUMBER)
+
+Question 24: Italy Rome (PLACE)
+
+Question 25: Taylor Swift (PERSON)
+
+Question 26: Liberty Island (LOCATION)
+
+Question 27: 1994 (DATE)
+
+Question 28: Ottawa (PLACE)
+
+Question 29: Taylor Swift (PERSON)
+
+Question 30: March 2006 (DATE)
