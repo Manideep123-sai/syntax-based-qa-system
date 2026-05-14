@@ -1,3 +1,6 @@
+# Manideep Sai C
+# Reg.no 23BCE0737
+
 import spacy
 import wikipediaapi
 from ddgs import DDGS
